@@ -1,4 +1,6 @@
-# app
+# vue2 项目
+
+**本项目来自B站尚硅谷的教学视频：https://www.bilibili.com/video/BV1Vf4y1T7bw/**
 
 ## Project setup
 ```
